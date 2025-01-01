@@ -1,0 +1,4 @@
+name: Novas
+version: '${project.version}'
+main: de.vmzx.novas.Novas
+api-version: '1.21'

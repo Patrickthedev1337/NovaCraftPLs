@@ -1,0 +1,4 @@
+name: Novas
+version: '1.0.0'
+main: de.vmzx.novas.Novas
+api-version: '1.21'
